@@ -7,6 +7,7 @@ AppWizard has created this ConsoleApplication3 application for you.
 This file contains a summary of what you will find in each of the files that
 make up your ConsoleApplication3 application.
 
+Hello?
 
 ConsoleApplication3.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
